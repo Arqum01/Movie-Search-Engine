@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
+.header{
+    font-size: 5rem;
+    text-align: center;
+}
